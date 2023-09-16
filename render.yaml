@@ -1,6 +1,6 @@
 services:
 - type: web
-  name: typesense
+  name: test-typesense
   env: docker
   repo: https://github.com/SmebdyNbdy/typesense-on-render.git
   plan: starter
